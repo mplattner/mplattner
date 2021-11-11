@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 👱 My name is Martin Plattner.
-* 🔨 I'm a software engineer and consultant with a strong interest in information security.
+* 🔨 I'm an information security professional, software engineer, and consultant.
 * 🌄 I live and work in Innsbruck, Austria, a beautiful town in the alps.
 * 🌐 You can find more about me on my [website](https://mplattner.at/), [LinkedIn](https://www.linkedin.com/in/martinplattnr/), or [Twitter](https://twitter.com/MartinPlattnr).
 * 📫 You can contact me via e-mail at [git@mplattner.at](mailto:git@mplattner.at).
